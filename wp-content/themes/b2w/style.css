@@ -66,6 +66,10 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.io/normalize.css/
 ## Links
 --------------------------------------------------------------*/
 
+input.search-submit{
+	display: none !important;
+}
+
 /*--------------------------------------------------------------
 ## Menus
 --------------------------------------------------------------*/
